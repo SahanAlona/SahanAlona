@@ -1,10 +1,18 @@
-### Hi there 👋
+ Hi there 👋
 
-👋 Hi, I’m @SahanAlona
-👀 I’m interested in web development
-🌱 I’m currently learning ReactJS
-💞️ I’m looking to collaborate on any project
-📫 Reach me on e-mail : sagan.alona201408@gmail.com
+-👋 I’m @SahanAlona
+
+-👀 I’m interested in web development
+
+-🌱 I’m currently learning ReactJS
+
+-💞️ I’m looking to collaborate on any project
+
+-📫 Reach me on e-mail : sagan.alona201408@gmail.com
+
+
+
+
 <!--
 **SahanAlona/SahanAlona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
